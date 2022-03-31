@@ -1,0 +1,64 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-success {
+    background-color: #28A745 !important;
+    color: #fff;
+}
+.card {
+    width: 278px;
+}
+
+.card-title {
+    color: #212529;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.card-text{
+    color:#707070;
+    font-weight: 300;
+}
+
+.list-group-item{
+    text-align: right;
+    font-weight: 300;
+}
+
+.text-right{
+    font-weight: 300;
+}
+
+.text-success{
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745 !important;
+}
+
+.btn-light{
+    width: 112px;
+    height: 40px;
+}
+
+#contacto {
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.form-control {
+    color:#707070;
+    font-weight: 300;
+}
+
+@media screen (max-width: 374px) {
+    #productos {
+        margin: 0 auto !important;
+    }
+}
+
+.copyright{
+    color: ##707070;
+    font-size: 16px;
+    font-weight:300;
+}
